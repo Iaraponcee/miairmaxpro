@@ -658,6 +658,7 @@ html {
 .social-icons {
     display: flex;
     gap: 1.5rem;
+    
 }
 
 .social-icons span {
